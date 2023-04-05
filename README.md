@@ -23,7 +23,9 @@ Results of the whole analysis are visible in the photos below. We can see data m
 ![AU1](https://user-images.githubusercontent.com/98387772/230076394-355a65b0-5af8-44b4-9d26-c739122bff84.png)
 ![AU2](https://user-images.githubusercontent.com/98387772/230076401-27cc5d6e-1851-4fcc-9986-00333bf347d3.png)
 ![AU3](https://user-images.githubusercontent.com/98387772/230076408-57734913-ddd3-4220-ad22-368da980dd1f.png)
-![AU4](https://user-images.githubusercontent.com/98387772/230076413-74318a5e-3648-46aa-9f7c-443ca6232279.png) 
+![AU4](https://user-images.githubusercontent.com/98387772/230076413-74318a5e-3648-46aa-9f7c-443ca6232279.png)
+![AU5](https://user-images.githubusercontent.com/98387772/230076849-b6b4a1a1-649d-429d-9f62-4d3a6dcb0372.png)
+
 
 ## Development directions
 There is always room for improvements, which allow to find more compelling conclusions. In order to achieving deeper analysis, interesting solutions would be to expand analyzed data by set of different information such as employment rate of automotive sector.
